@@ -1,0 +1,22 @@
+.header {
+    display: flex;
+    justify-content: space-between;
+    background-color: #1f2937;
+    font-size: 26px;
+    font-weight: 900;
+    padding-right: 40px;
+    border: 0;
+}
+
+.header-right {
+    display: flex;
+    justify-content: space-around;
+    gap: 10px;
+}
+
+.white{
+    color: white;
+}
+.lightgray {
+    color: lightgray;
+}
