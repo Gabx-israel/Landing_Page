@@ -3,4 +3,20 @@ body {
     padding: 0;
     border: 0;
 }
- 
+
+.first-container{
+    display: flex;
+    flex-direction: column;
+}
+                        /* we work on the headers here */
+.header {
+    display: flex;
+}
+
+.right-header{
+    display: flex;
+}
+
+.hero {
+    display: flex;
+}
