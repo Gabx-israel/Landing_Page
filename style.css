@@ -96,6 +96,10 @@ img {
 .second-container {
     display: flex;
     padding-top: 40px;
+    justify-content: center;
+    align-items: center;
+    gap: 40px;
+    padding-bottom: 90px ;
 }
 
 .info-header{
@@ -113,6 +117,7 @@ img {
     flex-direction: column;
     justify-content: center;
     align-items: center;
+
 }
 
 
@@ -126,8 +131,9 @@ img {
 
 .text {
     display: flex;
-    width: 185px;
     flex-wrap: wrap;
     justify-content: center;
     align-self: center;
 }
+
+
