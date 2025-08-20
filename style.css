@@ -136,4 +136,24 @@ img {
     align-self: center;
 }
 
+                                    /* now we work on the third container */
+.third-container {
+    padding-top: 80px; ;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #E5E7EB;
+}
 
+.third-container-text {
+    display: flex;
+    flex-direction: column;
+}
+
+.text1 {
+    display: flex;
+    font-size: 36px;
+    font-style: italic;
+    color: #1F2937;
+    width: 900px;
+}
